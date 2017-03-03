@@ -11,3 +11,7 @@ Please provide your answer as a number. Consider all of the schools that disburs
 
 ###Question 2
 Please provide your answer as a number. For each state calculate the number of recipients for undergraduate student loans at non-public institutions in 2015. What was the largest difference between subsidized and unsubsidized loans in a single state?
+
+###A:
+
+AK:
