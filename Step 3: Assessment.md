@@ -5,7 +5,7 @@ Phase 1 Ada Application for Nadine Sandhu
 ###Question 1
 Please provide your answer as a number. Consider all of the schools that disbursed a total of more than $25,000,000 in loans during a single quarter. How many more schools met this criteria in 2015 than in 2010?
 
-###A:-40
+###A: -40
 
 2010/11 = 225
 
@@ -43,11 +43,38 @@ Of Wyoming's 117 Undergraduate loans given out, 100% were subsidized. This is th
 
 ### Process:
 1) Sorted spreadsheet by School Type and removed all rows listing "Public" per instructions
+
 2) Sorted spreadsheet by "State" column
+
 3) Insterted row between each state
+
 4) Created =sum(range:) formula to calculate total for entier state for subsidized and unsubsidized loans
-5) Inserted column and calculated % based on total of subsidized vs. unsubsidiez loans per state. (ex. 
+
+5) Inserted column and calculated % based on total of subsidized vs. unsubsidiez loans per state
+
 *Example: Alaska
 Total Recipients: 140 (sub 77, un 63)
 77/140=55%
 63/140=45%
+
+###QUESTION 3
+Compare HBCUs established prior to the Reconstruction Era and those established during Reconstruction. Which group had the largest change in number of loan recipients between 2010 and 2015?
+
+###A: *******************
+
+Prior to the Reconstruction Era
+
+During the Reconstruction Era
+
+Both groups had the the same change
+
+It's not possible to determine this
+
+###Process:
+1) Reconstruction Era spanned from 1865-1877.
+
+2) Searched online and found list of HBCU on wikipedia
+
+3) Compiled all HBCU's which met the above criteria
+
+4) 
