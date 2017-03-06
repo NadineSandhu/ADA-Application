@@ -41,7 +41,7 @@ Please provide your answer as a number. For each state calculate the number of r
 
 Of Wyoming's 117 Undergraduate loans given out, 100% were subsidized. This is the larges margin when compared to other States between subsidized and unsubsidiezed loans.
 
-### Process:
+####Process:
 1) Sorted spreadsheet by School Type and removed all rows listing "Public" per instructions
 
 2) Sorted spreadsheet by "State" column
@@ -62,7 +62,7 @@ Compare HBCUs established prior to the Reconstruction Era and those established 
 
 ###A: During the Reconstruction Era
 
-###Process:
+####Process:
 1) Reconstruction Era spanned from 1865-1877.
 
 2) Searched online and found list of HBCU on wikipedia
