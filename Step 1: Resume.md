@@ -9,51 +9,59 @@
 
 nadinesandhu@gmail.com
 
-###Work Experience
-####_Administrative Assistant_ Explore Consulting
-#####2016 - Present
--New hire onboarding, paperwork, orientation and HRIS entry
+##Work Experience
 
--AR processing and reconciliation
+###_Administrative Assistant_
+####Explore Consulting
+####2016 - Present
+- New hire onboarding, paperwork, orientation and HRIS entry
 
--Auditing and tracking of company assets
+- AR processing and reconciliation
 
--Processing incoming invoices for commission distribution
+- Auditing and tracking of company assets
 
--Travel and accommodation arrangements for senior management team
+- Processing incoming invoices for commission distribution
 
--Completing and executing NDA’s, Consulting Contracts and Estimates for new and ongoing client projects
+- Travel and accommodation arrangements for senior management team
 
-####_Accounts Payable, HR & Office Manager_ Earls Kitchen + Bar
-#####2013 - 2016
--Opened 3 offices from the ground up across the US
+- Completing and executing NDA’s, Consulting Contracts and Estimates for new and ongoing client projects
 
--Trained and supervised 3 office assistants at each location
+###_Accounts Payable, HR & Office Manager_ 
+####Earls Kitchen + Bar
+####2013 - 2016
+- Opened 3 offices from the ground up across the US
 
--Balanced daily sales, petty cash and checkbooks
+- Trained and supervised 3 office assistants at each location
 
--Processed Expense Reports
+- Balanced daily sales, petty cash and checkbooks
 
--Oversaw payroll and health benefits for 250 + employees
+- Processed Expense Reports
 
--Researched and implement new tools and techniques to reduce operating costs
+- Oversaw payroll and health benefits for 250 + employees
 
-####_Account Services Support Assistant_ Insurance Corporation of BC
-2010 - 2013
--Processed incoming payments for clients
+- Researched and implement new tools and techniques to reduce operating costs
 
--Maintained office supplies and equipment
+###_Account Services Support Assistant_ 
+####Insurance Corporation of BC
+####2010 - 2013
+- Processed incoming payments for clients
 
--Updated customer records, created office templates and spreadsheets
+- Maintained office supplies and equipment
 
-###Education
-####_Fundamentals of Accounting_ Certified General Accountants of BC
-2013
+- Updated customer records, created office templates and spreadsheets
+
+##Education
+
+###_Fundamentals of Accounting_ 
+####Certified General Accountants of BC
+####2013
 GAAP, Balance Sheets & General Ledgers 
-####_Bachelor of Fine Arts_ Simon Fraser University
-2006
--3.8 GPA
-Film Club Treasurer
-Swing Dance Club Treasurer
+
+###_Bachelor of Fine Arts_ 
+####Simon Fraser University
+####2006
+- 3.8 GPA
+- Film Club Treasurer
+- Swing Dance Club Treasurer
 
 ###Training
