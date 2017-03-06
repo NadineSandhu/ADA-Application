@@ -2,7 +2,7 @@
 ##Step 1: Resume
 
 #Nadine Sandhu
-##Resume
+
 11011 NE 9th Street Apt 228, Bellevue, WA 98004
 
 206-973-9471
