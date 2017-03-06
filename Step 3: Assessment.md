@@ -37,9 +37,9 @@ Please provide your answer as a number. Consider all of the schools that disburs
 ###Question 2
 Please provide your answer as a number. For each state calculate the number of recipients for undergraduate student loans at non-public institutions in 2015. What was the largest difference between subsidized and unsubsidized loans in a single state?
 
-###A: 100% subsidized (Wyoming)
+###A: 60,806 (NY)
 
-Of Wyoming's 117 Undergraduate loans given out, 100% were subsidized. This was the largest margin when compared to other States between subsidized and unsubsidiezed loans.
+Of New York's 120,422 Undergraduate loans given out, 90,614 of the loans were subsidized.(75.25% subsidized, 24.75% unsubsidized) This was the largest difference when compared to other States between subsidized and unsubsidiezed loans. 
 
 ####Process:
 1) Sorted spreadsheet by School Type and removed all rows listing "Public" per instructions
@@ -50,12 +50,16 @@ Of Wyoming's 117 Undergraduate loans given out, 100% were subsidized. This was t
 
 4) Created =sum(range:) formula to calculate total for entier state for subsidized and unsubsidized loans
 
-5) Inserted column and calculated % based on total of subsidized vs. unsubsidiez loans per state
+5) Inserted column and calculated subsidized total minus unsubsidiezed total
 
-*Example: Alaska
-    Total Recipients: 140 (sub 77, un 63)
-    77/140=55%
-    63/140=45%
+6) Largest difference between subsidized and unsubsidized loans was New York of 60,806.
+
+New York total 120,422
+
+subsidized = 90,614
+
+unsubsidized = 29,808
+
 
 ###QUESTION 3
 Compare HBCUs established prior to the Reconstruction Era and those established during Reconstruction. Which group had the largest change in number of loan recipients between 2010 and 2015?
