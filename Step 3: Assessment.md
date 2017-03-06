@@ -78,3 +78,9 @@ It's not possible to determine this
 3) Compiled all HBCU's which met the above criteria
 
 4) 
+
+
+*Disclaimer. Some HBCU's from wikipedia did not appear on the spreadsheet. I have assumed this is due to the zip code exclusions. 
+
+Example:
+Harris-Stowe State University College, zip ends in 3
