@@ -1,7 +1,5 @@
-# ADA-Application
-
-###Step 2: Essay Questions
-####1. Why are you interested in programming? What have you done to expose yourself to programming so far?
+##Step 2: Essay Questions
+###1. Why are you interested in programming? What have you done to expose yourself to programming so far?
 
 For the past five years, I have supported my husband as he pursued his culinary career. In 2012, he quit his job to pursue his dream of one day becoming a Head Chef and since then we have traveled from Vancouver to Miami to Chicago with Earls Kitchen and Bar. Last March he achieved his dream after being with the company for 4 years. He was appointed Head Chef of Earls Kitchen and Bar in Bellevue and was the 3rd fastest promoted Chef with the company.
 
@@ -11,7 +9,7 @@ In preparation, I have begun doing self-paced coding courses online such as Code
 
 I have no doubt that the Ada program will be rigorous, and I am determined to succeed in creating a future for myself that would not otherwise exist. I would be honored to be accepted into the Ada Developers Academy, and will go above and beyond to prove myself a worthy student, ambassador and alumni.
 
-####2. If you are accepted into our program, where do you see your career in 5 years?
+###2. If you are accepted into our program, where do you see your career in 5 years?
 
 In 5 years, I intend to be a senior game engineer with an AAA game developer.
 
@@ -20,7 +18,7 @@ I have had a passion for video games since I was 7 years old. Saving up my allow
 Ada would be the perfect opportunity for me to gain the skills requited to transition careers. It is my mission to be an inspiration, role model and positive force for equality in the video game industry. Being able to bring my passion for games and equality together in my career would be a dream come true.
 
 
-####3. After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?
+###3. After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?
 
 I intend to be a mentor and role model to younger generations who wish to pursue a career in video game development, or any technology related field. Only by putting ourselves in the roles we wish to see more women doing, will we slowly begin to see the change needed in tech industries. With women holding a shockingly low percentage of senior management roles across all industries, I firmly believe it is up to us as individuals and as a collective to step up and take on the roles we see ourselves lacking in.
 
