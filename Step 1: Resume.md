@@ -63,5 +63,3 @@ GAAP, Balance Sheets & General Ledgers
 - 3.8 GPA
 - Film Club Treasurer
 - Swing Dance Club Treasurer
-
-###Training
