@@ -4,11 +4,11 @@
 ###Step 2: Essay Questions
 ####1. Why are you interested in programming? What have you done to expose yourself to programming so far?
 
-For the past five years I have supported my husband as he pursues his culinary career. In 2012 he quit his job to pursue his dream of one day becoming a Head Chef. Since then we have traveled from Vancouver to Miami to Chicago with Earls Kitchen and Bar. Last March he achieved his dream after being with the company for 4 years. He was appointed Head Chef of Earls Kitchen and Bar in Bellevue and was the 3rd fastest promoted Chef with the company
+For the past five years, I have supported my husband as he pursued his culinary career. In 2012, he quit his job to pursue his dream of one day becoming a Head Chef and since then we have traveled from Vancouver to Miami to Chicago with Earls Kitchen and Bar. Last March he achieved his dream after being with the company for 4 years. He was appointed Head Chef of Earls Kitchen and Bar in Bellevue and was the 3rd fastest promoted Chef with the company.
 
-Witnessing him take on the challenege of entering a new career field later in life, with no previous experience, has given me inspiration for my own career goals. I truly believe that if someone has a vision for themselves, and they arduously apply themsevles towards that goal, they will be successful. Our only limitation is ourselves.
+Witnessing him take on the challenge of entering a new career field later in life, with no previous experience, has given me inspiration for my own career. I have seen firsthand that if someone has a vision for themselves, and they arduously apply themselves towards that goal, they will be successful. Our only limitation is ourselves.
 
-In preparation I have begun doing self paced coding courses online such as CodeAcademy, Udemy, CodeCombat as well as the Jump Start with Ada. The logic and detail required I find higly appealing as I have always been very logically minded.
+In preparation, I have begun doing self-paced coding courses online such as Code Academy, Udemy, CodeCombat as well as the Jump Start with Ada. The logic and detail required I find higly appealing as I have always been very logically minded.
 
 I have no doubt that the Ada program will be rigorous, and I am determined to succeed in creating a future for myself that would not otherwise exist. I would be honored to be accepted into the Ada Developers Academy, and will go above and beyond to prove myself a worthy student, ambassador and alumni.
 
