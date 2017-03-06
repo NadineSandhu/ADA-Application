@@ -39,7 +39,7 @@ Please provide your answer as a number. For each state calculate the number of r
 
 ###A: 100% subsidized (Wyoming)
 
-Of Wyoming's 117 Undergraduate loans given out, 100% were subsidized. This was the larges margin when compared to other States between subsidized and unsubsidiezed loans.
+Of Wyoming's 117 Undergraduate loans given out, 100% were subsidized. This was the largest margin when compared to other States between subsidized and unsubsidiezed loans.
 
 ####Process:
 1) Sorted spreadsheet by School Type and removed all rows listing "Public" per instructions
