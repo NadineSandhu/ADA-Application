@@ -3,11 +3,11 @@
 
 #Nadine Sandhu
 
-11011 NE 9th Street Apt 228, Bellevue, WA 98004
+####11011 NE 9th Street Apt 228, Bellevue, WA 98004
 
-206-973-9471
+####206-973-9471
 
-nadinesandhu@gmail.com
+####nadinesandhu@gmail.com
 
 ##Work Experience
 
