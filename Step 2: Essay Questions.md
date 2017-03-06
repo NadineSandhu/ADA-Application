@@ -5,7 +5,7 @@ For the past five years, I have supported my husband as he pursued his culinary 
 
 Witnessing him take on the challenge of entering a new career field later in life, with no previous experience, has given me inspiration for my own career. I have seen firsthand that if someone has a vision for themselves, and they arduously apply themselves towards that goal, they will be successful. Our only limitation is ourselves.
 
-In preparation, I have begun doing self-paced coding courses online such as Code Academy, Udemy, CodeCombat as well as the Jump Start with Ada. The logic and detail required I find highly appealing as I have always been very logically minded.
+In preparation, I have begun doing self-paced coding courses online such as Code Academy, Udemy, CodeCombat as well as the Jump Start with Ada. The logic and detail required I find highly appealing as I have always found myself to be very logically minded.
 
 I have no doubt that the Ada program will be rigorous, and I am determined to succeed in creating a future for myself that would not otherwise exist. I would be honored to be accepted into the Ada Developers Academy, and will go above and beyond to prove myself a worthy student, ambassador and alumni.
 
@@ -20,7 +20,7 @@ Ada would be the perfect opportunity for me to gain the skills requited to trans
 
 ###3. After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?
 
-I intend to be a mentor and role model to younger generations who wish to pursue a career in video game development, or any technology related field. Only by putting ourselves in the roles we wish to see more women doing, will we slowly begin to see the change needed in tech industries. With women holding a shockingly low percentage of senior management roles across all industries, I firmly believe it is up to us as individuals and as a collective to step up and take on the roles we see ourselves lacking in.
+I intend to be a mentor and role model to younger generations who wish to pursue a career in video game development, or any technology related field. Only by taking on the roles we wish to see more women doing, will we slowly begin to see the change needed in tech industries. With women holding a shockingly low percentage of senior management roles across all industries, I firmly believe it is up to us as individuals and as a collective to step up and forge a new path for women in technology.
 
 ####4. Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?
 
