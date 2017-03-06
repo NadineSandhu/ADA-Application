@@ -53,9 +53,9 @@ Of Wyoming's 117 Undergraduate loans given out, 100% were subsidized. This was t
 5) Inserted column and calculated % based on total of subsidized vs. unsubsidiez loans per state
 
 *Example: Alaska
-Total Recipients: 140 (sub 77, un 63)
-77/140=55%
-63/140=45%
+    Total Recipients: 140 (sub 77, un 63)
+    77/140=55%
+    63/140=45%
 
 ###QUESTION 3
 Compare HBCUs established prior to the Reconstruction Era and those established during Reconstruction. Which group had the largest change in number of loan recipients between 2010 and 2015?
@@ -75,19 +75,19 @@ Compare HBCUs established prior to the Reconstruction Era and those established 
 
 ####Prior to Reconstruction Era (1864)
 
-2010/11= 7,028
+    2010/11= 7,028
 
-2015/16 = 6,860
+    2015/16 = 6,860
 
-**_-168 or -2.39% decrease_**
+    **_-168 or -2.39% decrease_**
 
 ####During Reconstruction Era (1865-1877)
 
-2010/11 = 91,128
+    2010/11 = 91,128
 
-2015/16 = 78,149
+    2015/16 = 78,149
 
-**_-12,979 or -14.24% decrease_**
+    **_-12,979 or -14.24% decrease_**
 
 *Disclaimer. Some HBCU's from wikipedia did not appear on the spreadsheet. I have assumed this is due to the zip code exclusions. 
 
