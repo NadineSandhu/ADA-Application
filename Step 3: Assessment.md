@@ -39,7 +39,7 @@ Please provide your answer as a number. For each state calculate the number of r
 
 ###A: 60,806 (NY)
 
-Of New York's 120,422 Undergraduate loans given out, 90,614 of the loans were subsidized.(75.25% subsidized, 24.75% unsubsidized) This was the largest difference when compared to other States between subsidized and unsubsidiezed loans. 
+Of New York's 120,422 Undergraduate loans given out, 90,614 of the loans were subsidized.(29,808 unsubsidized) This was the largest difference when compared to other States between subsidized and unsubsidiezed loans. 
 
 ####Process:
 1) Sorted spreadsheet by School Type and removed all rows listing "Public" per instructions
