@@ -16,7 +16,7 @@ Please provide your answer as a number. Consider all of the schools that disburs
 
 2) Insterted column to the right of the Zip Code column, and added the _=right(D3,1)_ formula
 
-3) Sorted data by _=right(D3,1)_ formula and deleted all rows with numbers 3,5,7 per instruction
+3) Sorted data by _=right(D3,1)_ column and deleted all rows with numbers 3,5,7 per instruction
 
 4) Added column to the right of column B titled "Cumulative Total Disbursments" and added _=sum(...,...) for all $ of Disbursments cells
 
@@ -39,7 +39,7 @@ Please provide your answer as a number. For each state calculate the number of r
 
 ###A: 100% subsidized (Wyoming)
 
-Of Wyoming's 117 Undergraduate loans given out, 100% were subsidized. This is the larges margin when compared to other States between subsidized and unsubsidiezed loans.
+Of Wyoming's 117 Undergraduate loans given out, 100% were subsidized. This was the larges margin when compared to other States between subsidized and unsubsidiezed loans.
 
 ####Process:
 1) Sorted spreadsheet by School Type and removed all rows listing "Public" per instructions
@@ -73,21 +73,21 @@ Compare HBCUs established prior to the Reconstruction Era and those established 
 
 5) Calculated % change (decrease = new number - old number, decrease/new number*100 = %)
 
-#####Prior to Reconstruction Era (1864)
+####Prior to Reconstruction Era (1864)
 
 2010/11= 7,028
 
 2015/16 = 6,860
 
-_-168 or -2.39% decrease_
+**_-168 or -2.39% decrease_**
 
-#####During Reconstruction Era (1865-1877)
+####During Reconstruction Era (1865-1877)
 
 2010/11 = 91,128
 
 2015/16 = 78,149
 
-_-12,979 or -14.24% decrease_
+**_-12,979 or -14.24% decrease_**
 
 *Disclaimer. Some HBCU's from wikipedia did not appear on the spreadsheet. I have assumed this is due to the zip code exclusions. 
 
