@@ -72,19 +72,21 @@ Compare HBCUs established prior to the Reconstruction Era and those established 
 
 ####Prior to Reconstruction Era (1864)
 
+####-168 or -2.39% decrease####
+
 2010/11= 7,028
 
 2015/16 = 6,860
 
-####-168 or -2.39% decrease####
 
 ####During Reconstruction Era (1865-1877)
+
+####-12,979 or -14.24% decrease####
 
 2010/11 = 91,128
 
 2015/16 = 78,149
 
-####-12,979 or -14.24% decrease####
 
 *Disclaimer. Some HBCU's from wikipedia did not appear on the spreadsheet. I have assumed this is due to the zip code exclusions. 
 
