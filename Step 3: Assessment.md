@@ -54,13 +54,6 @@ Of New York's 120,422 Undergraduate loans given out, 90,614 of the loans were su
 
 6) Largest difference between subsidized and unsubsidized loans was New York of 60,806.
 
-New York total 120,422
-
-subsidized = 90,614
-
-unsubsidized = 29,808
-
-
 ###QUESTION 3
 Compare HBCUs established prior to the Reconstruction Era and those established during Reconstruction. Which group had the largest change in number of loan recipients between 2010 and 2015?
 
