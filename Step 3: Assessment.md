@@ -14,7 +14,7 @@ Please provide your answer as a number. Consider all of the schools that disburs
 ####Process:
 1) Sorted data by School Type column and deleted all Foreign institutions per instruction
 
-2) Inserted column to the right of the Zip Code column, and added the =right(D3,1) formula
+2) Inserted column to the right of the Zip Code column, and added =right(D3,1) formula
 
 3) Sorted data by =right(D3,1) column and deleted all rows with numbers 3,5,7 per instruction
 
@@ -24,7 +24,7 @@ Please provide your answer as a number. Consider all of the schools that disburs
 
 6) Sorted data by "Cumulative Total Disbursements" descending
 
-7) Scrolled to cell with $25,000,000 in loans and calculated the total - 2 for top two header rows
+7) Scrolled to cell with $25,000,000 in loans and calculated the total minus 2 for top two header rows
 
 8) Repeated steps 1 through 7 with 2015/16 spreadsheet
 
