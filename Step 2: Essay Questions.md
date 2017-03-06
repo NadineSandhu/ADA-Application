@@ -1,5 +1,4 @@
 # ADA-Application
-##Phase 1 Ada Application for Nadine Sandhu
 
 ###Step 2: Essay Questions
 ####1. Why are you interested in programming? What have you done to expose yourself to programming so far?
