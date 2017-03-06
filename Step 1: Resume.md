@@ -1,4 +1,3 @@
-# ADA-Application
 ##Step 1: Resume
 
 #Nadine Sandhu
