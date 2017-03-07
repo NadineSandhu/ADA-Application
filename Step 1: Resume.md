@@ -6,6 +6,14 @@
 
 ####206-973-9471 | nadinesandhu@gmail.com
 
+##Skills
+
+* Researching, developing and implementing new systems to streamline productivity
+
+* Coaching and mentoring team on new tasks and change
+
+* Self-taught advanced skills in MS Office, Photoshop, Final Cut Pro
+
 ##Work Experience
 
 ###_Administrative Assistant_
