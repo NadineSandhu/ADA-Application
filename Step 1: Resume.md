@@ -26,7 +26,7 @@
 ###_Accounts Payable, HR & Office Manager_ 
 ####[_Earls Kitchen + Bar_](www.earls.ca) | Miami, FL and Chicago, IL | 2013 - 2016
 
-* Opened 3 offices from the ground up across the US
+* Coordinated the opening of 5 offices from the ground up across the US
 
 * Trained and supervised 3 office assistants at each location
 
