@@ -10,9 +10,11 @@
 
 * Researching, developing and implementing new systems to streamline productivity
 
+* Taking on leadership roles in unfamiliar territory with positivity and enthusiasm
+
 * Coaching and mentoring team on new tasks and change
 
-* Self-taught advanced skills in MS Office, Photoshop, Final Cut Pro
+* Self-taught advanced skills in MS Office, Photoshop, Final Cut Pro, Hootsuite
 
 ##Work Experience
 
