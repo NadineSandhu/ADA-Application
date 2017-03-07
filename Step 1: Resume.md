@@ -11,43 +11,43 @@
 ##Work Experience
 
 ###_Administrative Assistant_
-####Explore Consulting
+####_Explore Consulting_, Bellevue, WA
 ####2016 - Present
-- New hire onboarding, paperwork, orientation and HRIS entry
+* New hire onboarding, paperwork, orientation and HRIS entry
 
-- AR processing and reconciliation
+* AR processing and reconciliation
 
-- Auditing and tracking of company assets
+* Auditing and tracking of company assets
 
-- Processing incoming invoices for commission distribution
+* Processing incoming invoices for commission distribution
 
-- Travel and accommodation arrangements for senior management team
+* Travel and accommodation arrangements for senior management team
 
-- Completing and executing NDA’s, Consulting Contracts and Estimates for new and ongoing client projects
+* Completing and executing NDA’s, Consulting Contracts and Estimates for new and ongoing client projects
 
 ###_Accounts Payable, HR & Office Manager_ 
-####Earls Kitchen + Bar
+####_Earls Kitchen + Bar_, Miami, FL and Chicago, IL
 ####2013 - 2016
-- Opened 3 offices from the ground up across the US
+* Opened 3 offices from the ground up across the US
 
-- Trained and supervised 3 office assistants at each location
+* Trained and supervised 3 office assistants at each location
 
-- Balanced daily sales, petty cash and checkbooks
+* Balanced daily sales, petty cash and checkbook
 
-- Processed Expense Reports
+* Processed Expense Reports for management
 
-- Oversaw payroll and health benefits for 250 + employees
+* Oversaw payroll and health benefits for 250 + employees
 
-- Researched and implement new tools and techniques to reduce operating costs
+* Researched and implement new tools and techniques to reduce operating costs
 
 ###_Account Services Support Assistant_ 
-####Insurance Corporation of BC
+####_Insurance Corporation of BC_, Vancouver BC, Canada
 ####2010 - 2013
-- Processed incoming payments for clients
+* Created spreadsheets for tracking team task progression
 
-- Maintained office supplies and equipment
+* Processed incoming claim files into SAP system
 
-- Updated customer records, created office templates and spreadsheets
+* Updated customer records, maintained office supplies
 
 ##Education
 
@@ -57,7 +57,7 @@
 GAAP, Balance Sheets & General Ledgers 
 
 ###_Bachelor of Fine Arts_ 
-####Simon Fraser University
+####_Simon Fraser University_, Vancouver BC, Canada
 ####2006
 - 3.8 GPA
 - Film Club Treasurer
