@@ -17,7 +17,7 @@ I have had a passion for video games since I was 7 years old. At seven yeras old
 
 That being said, I would also like to keep an open mind throughout the Ada program in regards to where I would like to focus my career. Perhaps UI/UX design will captivate me, or database managment. Regardless of where the future takes me, I am confident that the development skills I learn at Ada will have an invaluable impact on my future success.
 
-It is my mission to be an inspiration, role model and positive force for women and minorities in the technology sector, and I know that Ada could be a valuable part of that.
+It is my mission to be an inspiration, role model and positive force for women and minorities in the technology sector, and I know that Ada would be an invaluable part of that.
 
 
 ###3. After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?
