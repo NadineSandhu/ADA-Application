@@ -9,7 +9,7 @@
 ##Work Experience
 
 ###_Administrative Assistant_
-####_Explore Consulting_, Bellevue, WA
+####[_Explore Consulting_](www.exploreconsulting.com), Bellevue, WA
 ####2016 - Present
 * New hire onboarding, paperwork, orientation and HRIS entry
 
@@ -24,7 +24,7 @@
 * Completing and executing NDA’s, Consulting Contracts and Estimates for new and ongoing client projects
 
 ###_Accounts Payable, HR & Office Manager_ 
-####_Earls Kitchen + Bar_, Miami, FL and Chicago, IL
+####[_Earls Kitchen + Bar_](www.earls.ca), Miami, FL and Chicago, IL
 ####2013 - 2016
 * Opened 3 offices from the ground up across the US
 
@@ -39,7 +39,7 @@
 * Researched and implement new tools and techniques to reduce operating costs
 
 ###_Account Services Support Assistant_ 
-####_Insurance Corporation of BC_, Vancouver BC, Canada
+####[_Insurance Corporation of BC_](www.icbc.com), Vancouver BC, Canada
 ####2010 - 2013
 * Created spreadsheets for tracking team task progression
 
@@ -50,12 +50,12 @@
 ##Education
 
 ###_Fundamentals of Accounting_ 
-####Certified General Accountants of BC
+####[_Chartered Professional Accountants of BC_](www.bccpa.ca)
 ####2013
 GAAP, Balance Sheets & General Ledgers 
 
 ###_Bachelor of Fine Arts_ 
-####_Simon Fraser University_, Vancouver BC, Canada
+####[_Simon Fraser University_](www.sfu.ca), Vancouver BC, Canada
 ####2006
 - 3.8 GPA
 - Film Club Treasurer
